@@ -41,7 +41,7 @@ public class BookClientTests {
                 .setBody("""
                         {
                             "isbn": %s,
-                            "title"+: "Title",
+                            "title": "Title",
                             "author": "Author",
                             "price": 9.99,
                             "publisher": "Polarsophia"
